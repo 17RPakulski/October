@@ -8,3 +8,5 @@ prod = user1*user2
 print('Sum =',summ)
 print('Difference =',dif)
 print('Product =',prod)
+
+# not finished, went onto revision exercise 4
